@@ -1066,7 +1066,7 @@ a {
   position: relative;
   padding-top: 3rem;
   padding-bottom: 10rem;
-  background-image: url("../../../assets/images/logo-alfa-svoi-2000x800.png");
+  background-image: url("../../../assets/images/logo-alfa-svoi-2000x800.webp");
 }
 @media (min-width: 992px) {
   .cid-sV8w6Wn8vc .display-1 {
@@ -1242,7 +1242,7 @@ a {
 .cid-sV8vnipo9b {
   padding-top: 4rem;
   padding-bottom: 4rem;
-  background-image: url("../../../assets/images/logo-alfa-svoi-2000x800.png");
+  background-image: url("../../../assets/images/logo-alfa-svoi-2000x800.webp");
 }
 .cid-sV8vnipo9b ul {
   list-style: none;
@@ -1364,7 +1364,7 @@ a {
   }
 }
 .cid-sV8voJvft5 .parallax {
-  background-image: url("../../../assets/images/close-up-on-young-business-person-doing-internship-1-2000x1333.jpg");
+  background-image: url("../../../assets/images/close-up-on-young-business-person-doing-internship-1-2000x1333.webp");
   height: 400px;
   background-size: cover;
   background-attachment: fixed;
