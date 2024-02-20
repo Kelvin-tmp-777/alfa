@@ -51,22 +51,6 @@
     "uniqCompNum": 23,
     "versionPublish": "5.9.0",
     "screenshot": "screenshot.png",
-    "chatbutton": {
-      "phone": "+79068077757",
-      "message": "",
-      "size": "65px",
-      "backgroundColor": "#e5ddd5",
-      "position": "left",
-      "popupMessage": "Привет!👋\n\nНапишите ваш вопрос, ответ придет в whatsapp! 🔥\n\nС Уважением, Анна.",
-      "showPopup": true,
-      "showOnIE": true,
-      "autoOpenTimeout": "5",
-      "headerColor": "#39847a",
-      "headerTitle": "👋 Переходите в чат",
-      "placeholder": "Введите текст",
-      "zIndex": 10,
-      "enabled": true
-    },
     "usedWebp": true,
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
@@ -74,10 +58,11 @@
     "siteUrl": "https://alfatemp.ru/",
     "sitemapSwitcherAuto": "on",
     "favicon": false,
-    "mbrsiteDomain": "cxfd3ovfgo",
+    "mbrsiteDomain": "iun9wadaoi",
     "cookiesAlert": false,
     "gdpr": false,
-    "site_lang": "ru"
+    "site_lang": "ru",
+    "chatbutton": false
   },
   "pages": {
     "index.html": {
