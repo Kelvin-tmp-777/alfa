@@ -1154,19 +1154,19 @@ a {
   margin-right: 0.6rem;
   margin-bottom: 1rem;
   padding: 0.5rem;
-  border: 2px solid #232323;
+  border: 2px solid #e42d18;
   transition: all 0.3s;
 }
 .cid-u4LNM10cb9 .social-row .soc-item .mbr-iconfont {
   display: flex;
   justify-content: center;
   align-content: center;
-  color: #232323;
+  color: #e42d18;
   font-size: 1.5rem;
   transition: all 0.3s;
 }
 .cid-u4LNM10cb9 .social-row .soc-item:hover {
-  background-color: #232323;
+  background-color: #e42d18;
 }
 .cid-u4LNM10cb9 .social-row .soc-item:hover .mbr-iconfont {
   color: #ffffff;
